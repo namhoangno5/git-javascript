@@ -1,1 +1,2 @@
-# git-javascript
+# Git javaScript
+## Hoang, Phuong Nam
